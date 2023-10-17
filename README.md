@@ -1,4 +1,5 @@
-# Hello World, I am Felipe, let's build something awesome...
+# Felipe Oliveira
+### let's build something awesome...
 
 <br />
 
