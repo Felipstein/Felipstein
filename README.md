@@ -3,7 +3,8 @@
 
 <br />
 
-https://luisfeelip.com
+[Check my Portfolio](https://d1szikd9uvunff.cloudfront.net/)
+or run `npx luisfeelip` to get to know me better
 
 👨‍💻 Full-Stack & Mobile Engineer
 
